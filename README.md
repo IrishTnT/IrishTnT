@@ -1,5 +1,5 @@
 # IrishTnT
-[![Irish's GitHub stats](https://github-readme-stats.vercel.app/api?username=irishtnt)](https://github.com/anuraghazra/github-readme-stats)
+[![Irish's GitHub stats](https://github-readme-stats.vercel.app/api?username=irishtnt&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>Nonsense lectures, and video essays.
 <div id="badges">
